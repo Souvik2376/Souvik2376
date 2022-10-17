@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
+  <img height="600" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 </div>
 
 <br clear="both">
@@ -10,29 +10,18 @@
 ###
 
 <br clear="both">
-
 <h3 align="left">My name is Souvik Banerjee .</h3>
-
 ###
-
 <br clear="both">
-
 <h4 align="left">An upcoming developer 👨‍💻</h4>
-
 ###
-
 <br clear="both">
-
 <h6 align="left">📍Kolkata , India</h6>
-
 ###
-
 <div align="center">
   <img height="300" src="https://i.imgflip.com/65qngn.gif"  />
 </div>
-
 ###
-
 <h3 align="left">About me 😊</h3>
 
 ###
