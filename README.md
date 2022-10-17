@@ -13,19 +13,19 @@
 <div align="center">
   <img height="300" src="https://i.imgflip.com/65qngn.gif"  />
 </div>
-
+<br clear="both">
 <h2 align="left">About me 😊</h2>
 
 <img align="right" height="200" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
 <h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com<br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
-
+<br clear="both">
 [![Souvik Banerjee's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Souvik2376&theme=rogue)](https://github.com/Souvik2376)
 ###
 
 <div align="center">
   <a href="https://github.com/Souvik2376">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik2376&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376" alt="souvik2376" /></a>
