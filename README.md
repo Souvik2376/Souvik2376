@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik2376&show_icons=true&locale=en" alt="souvik2376" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2376&" alt="souvik2376" /></p>
+
+[![@souvik2376's Holopin board](https://holopin.me/souvik2376)](https://holopin.io/@souvik2376)
