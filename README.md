@@ -17,7 +17,7 @@
 <h2 align="left">About me 😊</h2>
 
 <img align="right" height="200" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
-<h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me #souvikb019@gmail.com#<br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
+<h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me "souvikb019@gmail.com"<br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
 <br clear="both">
 
 ## Contribution Graph
