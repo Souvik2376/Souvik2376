@@ -6,17 +6,10 @@
 <br clear="both">
 
 <h2 align="left">Hello Everyone👋!</h2>
-
-
-
-<br clear="both">
 <h3 align="left">My name is Souvik Banerjee .</h3>
-
 <h4 align="left">An upcoming developer 👨‍💻</h4>
-
-<br clear="both">
 <h6 align="left">📍Kolkata , India</h6>
-
+<br clear="both">
 <div align="center">
   <img height="300" src="https://i.imgflip.com/65qngn.gif"  />
 </div>
