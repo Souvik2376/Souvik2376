@@ -5,8 +5,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
-
 <h2 align="left">Hello Everyone👋!</h2>
 <h3 align="left">My name is Souvik Banerjee .</h3>
 <h4 align="left">An upcoming developer 👨‍💻</h4>
@@ -21,7 +19,7 @@
 ###
 
 <br clear="both">
-
+<img align="right" height="150" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
 <h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com<br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
 
 [![Souvik Banerjee's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Souvik2376&theme=rogue)](https://github.com/Souvik2376)
