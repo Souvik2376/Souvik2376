@@ -26,8 +26,8 @@
    
 <div align="center">
   <a href="https://github.com/Souvik2376">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik2376&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376" alt="souvik2376" /></a>
