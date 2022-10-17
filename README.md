@@ -19,8 +19,10 @@
 <img align="right" height="200" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
 <h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com<br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
 <br clear="both">
-[![Souvik Banerjee's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Souvik2376&theme=rogue)](https://github.com/Souvik2376)
+ ## Contribution Graph
 
+[![Souvik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Souvik2376&theme=rogue)](https://github.com/Sovik2376)
+   
 <div align="center">
   <a href="https://github.com/Souvik2376">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
