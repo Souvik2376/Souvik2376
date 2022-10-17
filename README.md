@@ -45,8 +45,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik2376&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Souvik2376" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Souvik2376" height="150" alt="languages graph"  />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376" alt="souvik2376" /></a>
 </div>
 
