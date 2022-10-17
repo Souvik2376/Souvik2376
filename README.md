@@ -12,7 +12,6 @@
 <br clear="both">
 <h3 align="left">My name is Souvik Banerjee .</h3>
 
-<br clear="both">
 <h4 align="left">An upcoming developer 👨‍💻</h4>
 
 <br clear="both">
