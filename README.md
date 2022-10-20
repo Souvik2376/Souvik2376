@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <a href="https://www.facebook.com/souvikbanerjee.banerjee.96" target="_blank">
@@ -89,13 +89,13 @@
 
 <img src="https://raw.githubusercontent.com/Souvik2376/Souvik2376/blob/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img height="403" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
 </div>
 
-###
+
 
 
 [![@souvik2376's Holopin board](https://holopin.me/souvik2376)](https://holopin.io/@souvik2376)
