@@ -96,7 +96,7 @@
 
 
 <br clear="both">
-
+![Snake animation](https://github.com/Souvik2376/Souvik2376/blob/output/github-contribution-grid-snake.svg)
 <img src="https://raw.githubusercontent.com/Souvik2376/Souvik2376/blob/output/snake.svg" alt="Snake animation" />
 
 
