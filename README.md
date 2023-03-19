@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hello!👋👨‍&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   <img height="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
@@ -22,12 +23,21 @@
 
 ## Contribution Graph
 
-[![Souvik Banerjee's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Souvik2376&theme=rogue)](https://github.com/Sovik2376)
-   
+<div align="center">
+   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Souvik2376&theme=react-dark&hide_border=true&area=true" />
+</div> 
+ 
+<!--  ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Souvik2376 github stats" /> 
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <!--  ./Also for stats if need use this --> 
+  <!--
 <div align="center">
   <a href="https://github.com/Souvik2376">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&langs_count=8&theme=algolia"/>
+    -->
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik2376&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376" alt="souvik2376" /></a>
@@ -99,3 +109,5 @@
 
 
 [![@souvik2376's Holopin board](https://holopin.me/souvik2376)](https://holopin.io/@souvik2376)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
