@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hello!👋&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hello!👋&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
 <div align="center">
   <img height="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
@@ -104,7 +104,7 @@
 
 
 <div align="center">
-  <img height="403" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
+  <img height="500" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
 </div>
 
 
