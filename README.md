@@ -1,8 +1,15 @@
+<!-- Hello Screen Weavy Function -->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hello!👋&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/>
+
+
+<!-- Top GIF -->
 
 <div align="center">
   <img height="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 </div>
+
+<!-- Introduction -->
 
 <br clear="both">
 
@@ -21,30 +28,55 @@
 <h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com<br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
 <br clear="both">
 
+<!-- Contribution Graph -->
+
 ## Contribution Graph
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Souvik2376&theme=react-dark&hide_border=true&area=true" />
 </div> 
  
-<!--  ./STAT -->
+<!--  Stats -->
+
+<!--
+![Stats](https://github-readme-stats.vercel.app/api?username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
+-->
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
+-->
+
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Souvik2376 github stats" /> 
   <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <!--  ./Also for stats if need use this --> 
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik2376&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Souvik2376 github stats" /> 
+  
+  
+  <!--  ./Also for Stats if need use this --> 
+  
   <!--
 <div align="center">
   <a href="https://github.com/Souvik2376">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&langs_count=8&theme=algolia"/>
     -->
+  
+  
 </a>
+<!--
+  <div align="center">
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2376&theme=black-    ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Souvik Banerjee" />
+  </div>
+-->
+  <!-- Github Contribution Graph -->
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik2376&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376" alt="souvik2376" /></a>
+  
 </div>
 
+<!-- Languages & Skills -->
 ###
-
+## 🛠  Languages and Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
@@ -70,8 +102,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
+<!--
+
+Updated Skills & Tools:(Can be aded in future)
+
+### Main skills:
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+
+![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
+### Studying in this moment: 
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+### Areas of Interest:
+![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+-->
 
 
+<!-- Connection Section --> 
+
+## 📍 Connect With Me :
 <div align="left">
   <a href="https://www.facebook.com/souvikbanerjee.banerjee.96" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -87,14 +158,14 @@
   </a>
 </div>
 
-
-
+<!-- Profile Views Count -->
+###
 <div align="center">
   <img src="https://profile-counter.glitch.me/Souvik2376/count.svg?"  />
 </div>
 
 
-
+<!-- Snake Animation (Not Working) -->
 <br clear="both">
 
 ![Snake animation](https://github.com/Souvik2376/Souvik2376/blob/output/github-contribution-grid-snake.svg)
