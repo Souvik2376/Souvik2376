@@ -22,7 +22,7 @@
   <img height="300" src="https://i.imgflip.com/65qngn.gif"  />
 </div>
 <br clear="both">
-<h2 align="left">About me 😊</h2>
+<h2 align="left">😊 About me </h2>
 
 <img align="right" height="200" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
 <h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com<br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
@@ -30,7 +30,7 @@
 
 <!-- Contribution Graph -->
 
-## Contribution Graph
+## 🖊️ Contribution Graph
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Souvik2376&theme=react-dark&hide_border=true&area=true" />
@@ -45,6 +45,8 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
 -->
+###
+## 📊 Stats
 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Souvik2376 github stats" /> 
