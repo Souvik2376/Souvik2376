@@ -163,12 +163,13 @@ Updated Skills & Tools:(Can be aded in future)
   </a>
   <a href="https://www.linkedin.com/in/souvik-banerjee-b229a4237" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561199258612692" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="steam logo"  />
-      </a>
+   </a>
   <a href="https://open.spotify.com/user/16brk61pfb0x02cfffjxkdtmp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=32bd1d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+   </a>
+  <a href="https://steamcommunity.com/profiles/76561199258612692" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="steam logo"  />
+  </a>
 </div>
 
 <!-- Profile Views Count -->
