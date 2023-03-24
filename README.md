@@ -56,6 +56,7 @@
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik2376&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Souvik2376 github stats" /> 
   
   
+  
   <!--  ./Also for Stats if need use this --> 
   
   <!--
@@ -74,7 +75,10 @@
 -->
   <!-- Github Contribution Graph -->
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik2376&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <!--
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376" alt="souvik2376" /></a>
+  -->
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376&ryo-ma&theme=radical&row=1&column=6" alt="souvik2376" /></a> </p>
   
 </div>
 
