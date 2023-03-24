@@ -1,6 +1,8 @@
 <!-- Hello Screen Weavy Function -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hello!👋&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=00bfbf&center=true&vCenter=true&width=1000&lines=Hey+I'm+Souvik+Banerjee+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Souvik Banerjee Welcome to my Profile👋 animated typed out" width="100%"/>
 
 
 <!-- Top GIF -->
