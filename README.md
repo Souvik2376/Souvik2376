@@ -2,7 +2,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
+
+<img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2800&pause=2000&color=00BFBF&center=true&vCenter=true&width=550&height=80&lines=Hello%F0%9F%91%8B!;I+am+Souvik+Banerjee+%F0%9F%99%8F;An+Upcoming+%F0%9F%9A%80+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Works+On+AI+%26+ML+%F0%9F%A4%96;Frontend+%26+Backend+Development+%F0%9F%96%A5%EF%B8%8F;DevOps+%F0%9F%96%A7+%26+Cloud+Computing+%E2%98%81%EF%B8%8F;Database+Management+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+I+Love+To+Watch+Anime+%F0%9F%98%86;Fun+fact+%3A+The+One+Piece+is+Real+%F0%9F%94%A5" align="middle" alt="Hey, I'm Souvik Banerjee Welcome to my Profile👋 animated typed out" width="100%"/>
+
+
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=00bfbf&center=true&vCenter=true&width=1000&lines=Hey+I'm+Souvik+Banerjee+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Souvik Banerjee Welcome to my Profile👋 animated typed out" width="100%"/>
+-->
 
 
 <!-- Top GIF -->
@@ -198,3 +204,4 @@ Updated Skills & Tools:(Can be aded in future)
 [![@souvik2376's Holopin board](https://holopin.me/souvik2376)](https://holopin.io/@souvik2376)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
