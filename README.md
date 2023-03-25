@@ -178,6 +178,12 @@ Updated Skills & Tools:(Can be aded in future)
   </a>
 </div>
 
+<!--
+## Connect with Me 🤝🏻
+
+[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) [![Blog](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/bl.svg)](https://blog.praveen.science/) [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/praveentech/) [![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/praveenscience) [![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://youtube.com/praveenscience) [![Stack Overflow](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/so.svg)](https://stackoverflow.com/users/462627/praveen-kumar-purushothaman) [![Stack Exchange](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/se.svg)](https://stackexchange.com/users/210807/praveen-kumar) [![Microsoft MVP](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ms.svg)](https://mvp.microsoft.com/en-us/PublicProfile/5001822) [![GitHub](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gh.svg)](https://github.com/praveenscience) [![GitLab](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gl.svg)](https://gitlab.com/praveenscience) [![PayPal](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/pp.svg)](https://www.paypal.me/PraveenKumar) [![HackerNews](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/hn.svg)](https://news.ycombinator.com/user?id=praveenscience) [![Reddit](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/r.svg)](https://reddit.com/u/praveenscience/) [![Facebook](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/fb.svg)](https://www.facebook.com/praveenscience) [![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://instagram.com/praveenscience) [![HackHands](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/hh.svg)](http://web.archive.org/web/20190116000030if_/https://hackhands.com/praveen/) [![Telegram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tg.svg)](https://t.me/praveenscience) [![WhatsApp](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/wa.svg)](https://wa.me/)
+-->
+
 <!-- Profile Views Count -->
 ###
 <div align="center">
@@ -190,13 +196,19 @@ Updated Skills & Tools:(Can be aded in future)
 <br clear="both">
 
 ![Snake animation](https://github.com/Souvik2376/Souvik2376/blob/output/github-contribution-grid-snake.svg) 
--->
 
 ![snake gif](https://github.com/Souvik2376/Souvik2376/blob/output/github-contribution-grid-snake.svg)
 
-<!--  <img src="https://raw.githubusercontent.com/Souvik2376/Souvik2376/blob/output/snake.svg" alt="Snake animation" /> -->
+ <img src="https://raw.githubusercontent.com/Souvik2376/Souvik2376/blob/output/snake.svg" alt="Snake animation" /> 
+-->
 
+### Watch my contribution graph being eaten by a Snake! 🐍
 
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/Souvik2376/Souvik2376/main/soc/snake.svg)
+
+### Dino 🦖
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
