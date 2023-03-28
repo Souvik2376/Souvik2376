@@ -156,7 +156,7 @@ Updated Skills & Tools:(Can be aded in future)
 
 <!-- Connection Section --> 
 
-## 📍 Connect With Me :
+## 🤝🏻 Connect With Me :
 <div align="left">
   <a href="https://www.facebook.com/souvikbanerjee.banerjee.96" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -206,9 +206,9 @@ Updated Skills & Tools:(Can be aded in future)
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/Souvik2376/Souvik2376/main/soc/snake.svg)
 
-### Dino 🦖
+### AI DinoBot () 🦖
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](https://raw.githubusercontent.com/Souvik2376/Souvik2376/main/dino.gif)
 
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
