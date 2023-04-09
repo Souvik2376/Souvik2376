@@ -191,6 +191,14 @@ Updated Skills & Tools:(Can be aded in future)
 </div>
 
 
+
+<!-- Kintaro Golden Boy GIF -->
+###
+<div align="center">
+  <img height="550" weidth="550" src="https://media.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif"  />
+</div>
+
+
 <!-- Snake Animation (Not Working) -->
 <!-- 
 <br clear="both">
@@ -201,7 +209,6 @@ Updated Skills & Tools:(Can be aded in future)
 
  <img src="https://raw.githubusercontent.com/Souvik2376/Souvik2376/blob/output/snake.svg" alt="Snake animation" /> 
 -->
-
 ### Watch my contribution graph being eaten by a Snake! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/Souvik2376/Souvik2376/main/soc/snake.svg)
