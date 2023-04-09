@@ -237,6 +237,11 @@ Updated Skills & Tools:(Can be aded in future)
 
 
 [![@souvik2376's Holopin board](https://holopin.me/souvik2376)](https://holopin.io/@souvik2376)
+<br>
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
