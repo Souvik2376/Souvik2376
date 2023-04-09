@@ -2,8 +2,17 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
+<h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
+
+<!--
+<h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
+-->
+###
 
 <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=00BFBF&center=true&vCenter=true&width=550&height=80&lines=Hello%F0%9F%91%8B;I+am+Souvik+Banerjee+%F0%9F%99%8F;An+Upcoming+%F0%9F%9A%80+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Works+On+AI+%26+ML+%F0%9F%A4%96;Frontend+%26+Backend+Development+%F0%9F%96%A5%EF%B8%8F;DevOps+%F0%9F%96%A7+%26+Cloud+Computing+%E2%98%81%EF%B8%8F;Database+Management+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+I+Love+To+Watch+Anime+%F0%9F%98%86;Fun+fact+%3A+The+One+Piece+is+Real+%F0%9F%94%A5" align="middle" alt="Hey, I'm Souvik Banerjee Welcome to my Profile👋 animated typed out" width="100%"/>
+
+
+<p align="center"><img src="https://count.getloli.com/get/@Souvik2376?theme=rule34" width="400"></p><br>
 
 
 <!--
@@ -16,6 +25,7 @@
 <div align="center">
   <img height="550" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 </div>
+
 
 <!-- Introduction -->
 
@@ -30,6 +40,8 @@
   <img height="300" src="https://i.imgflip.com/65qngn.gif"  />
 </div>
 <br clear="both">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00BFBF&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
 <h2 align="left">😊 About me </h2>
 
 <img align="right" height="200" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
