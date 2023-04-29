@@ -230,7 +230,11 @@ Updated Skills & Tools:(Can be aded in future)
 
 ### AI DinoBot () 🦖
 
-![Dino](https://raw.githubusercontent.com/Souvik2376/Souvik2376/main/dino.gif)
+<div align="center">
+  <img height="350" src="dino.gif"  />
+</div>
+
+###
 
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
@@ -243,8 +247,8 @@ Updated Skills & Tools:(Can be aded in future)
 ###
 <br>
 <div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  </div>
 <br />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
