@@ -11,20 +11,17 @@
 
 <img width=100% src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=00BFBF&center=true&vCenter=true&width=550&height=80&lines=Hello%F0%9F%91%8B;I+am+Souvik+Banerjee+%F0%9F%99%8F;An+Upcoming+%F0%9F%9A%80+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Works+On+AI+%26+ML+%F0%9F%A4%96;Frontend+%26+Backend+Development+%F0%9F%96%A5%EF%B8%8F;DevOps+%F0%9F%96%A7+%26+Cloud+Computing+%E2%98%81%EF%B8%8F;Database+Management+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;+I+Love+To+Watch+Anime+%F0%9F%98%86;Fun+fact+%3A+The+One+Piece+is+Real+%F0%9F%94%A5" align="middle" alt="Hey, I'm Souvik Banerjee Welcome to my Profile👋 animated typed out" width="100%"/>
 
-
-<p align="center"><img src="https://count.getloli.com/get/@Souvik2376?theme=rule34" width="400"></p><br>
-
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=00bfbf&center=true&vCenter=true&width=1000&lines=Hey+I'm+Souvik+Banerjee+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Souvik Banerjee Welcome to my Profile👋 animated typed out" width="100%"/>
 -->
 
+<p align="center"><img src="https://count.getloli.com/get/@Souvik2376?theme=rule34" width="400"></p><br>
 
 <!-- Top GIF -->
 
 <div align="center">
   <img height="550" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
 </div>
-
 
 <!-- Introduction -->
 
@@ -64,6 +61,7 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
 -->
+
 ###
 ## 📊 Stats
 
@@ -71,9 +69,7 @@
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Souvik2376&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Souvik2376 github stats" /> 
   <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik2376&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik2376&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Souvik2376 github stats" /> 
-  
-  
-  
+
   <!--  ./Also for Stats if need use this --> 
   
   <!--
@@ -84,7 +80,7 @@
     -->
   
   
-</a>
+
 <!--
   <div align="center">
   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2376&theme=black-    ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Souvik Banerjee" />
