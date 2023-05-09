@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
-<h3 align="center">⚠️ Multiple works in progress! ⚠️</h3>
+<h3 align="center"> ⚠️ Multiple works in progress! ⚠️</h3>
 
 <!--
 <h4 align="center">Due to the creating of multiple projects, common inactivity may occur.<br>Please pardon any slow uploads or lack of updates.</h4>
@@ -14,7 +14,7 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@Souvik2376?theme=rule34" width="400"></p><br>
 
-
+ ![](https://komarev.com/ghpvc/?username=Souvik2376&color=00bfbf)
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=00bfbf&center=true&vCenter=true&width=1000&lines=Hey+I'm+Souvik+Banerjee+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Souvik Banerjee Welcome to my Profile👋 animated typed out" width="100%"/>
 -->
