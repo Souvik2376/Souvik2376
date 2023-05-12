@@ -80,19 +80,24 @@
     -->
   
   
-
+ <!-- Github Contribution Graph -->
 <!--
   <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2376&theme=black-    ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Souvik Banerjee" />
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2376&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Souvik Banerjee" />
   </div>
 -->
-  <!-- Github Contribution Graph -->
+  
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Souvik2376&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <!--
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376" alt="souvik2376" /></a>
   -->
+   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376&ryo-ma&theme=radical&row=1&column=6" alt="souvik2376" /></a> </p>
   
+  ![Souvik2376 github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Souvik2376)
+  ![Souvik2376 github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Souvik2376)
+  
+
 </div>
 
 <!-- Languages & Skills -->
