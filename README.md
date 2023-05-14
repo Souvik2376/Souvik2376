@@ -94,9 +94,9 @@
   -->
    
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2376&ryo-ma&theme=radical&row=1&column=6" alt="souvik2376" /></a> </p>
-  
-  ![Souvik2376 github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Souvik2376)
-
+ <!-- 
+ ![Souvik2376 github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Souvik2376)
+-->
   
 
 </div>
