@@ -17,6 +17,11 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@Souvik2376?theme=rule34" width="400"></p><br>
 
+<!-- Profile Views Count -->
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Souvik2376/count.svg?"  />
+</div>
 <!-- Top GIF -->
 
 <div align="center">
