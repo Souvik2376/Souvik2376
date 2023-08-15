@@ -27,8 +27,14 @@
 
 <!-- Top GIF -->
 
+<!--
 <div align="center">
   <img height="550" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
+</div>
+
+-->
+<div align="center">
+  <img height="550" src="assests/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"  />
 </div>
 
 <!-- Introduction -->
@@ -40,15 +46,27 @@
 <h4 align="left">An upcoming developer 👨‍💻</h4>
 <h6 align="left">📍Kolkata , India</h6>
 <br clear="both">
+
+<!--
 <div align="center">
   <img height="300" src="https://i.imgflip.com/65qngn.gif"  />
+</div>
+-->
+
+<div align="center">
+  <img height="300" src="assests/68747470733a2f2f692e696d67666c69702e636f6d2f3635716e676e2e676966.gif"  />
 </div>
 <br clear="both">
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00BFBF&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
 <h2 align="left">😊 About me </h2>
 
+<!--
 <img align="right" height="200" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
+-->
+
+<img align="right" height="200" src="assests/68747470733a2f2f6d656469612e74656e6f722e636f6d2f666c666c433647467a4f38414141414d2f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966.gif" />
+
 <h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com <br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
 <br clear="both">
 
@@ -219,8 +237,14 @@ Updated Skills & Tools:(Can be aded in future)
 
 <!-- Kintaro Golden Boy GIF -->
 ###
+<!--
 <div align="center">
   <img height="550" weidth="550" src="https://media.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif"  />
+</div>
+-->
+
+<div align="center">
+  <img height="550" weidth="550" src="assests/golden-boy-fake-keyboard-programing-coding-paper-book.gif"  />
 </div>
 
 
@@ -248,10 +272,15 @@ Updated Skills & Tools:(Can be aded in future)
 
 ###
 
+<!--
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"  />
 </div>
+-->
 
+<div align="center">
+  <img height="500" src="assests/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966.gif"  />
+</div>
 
 ###
 
