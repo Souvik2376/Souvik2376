@@ -81,11 +81,12 @@
   <img height="550" weidth="550" src="assests/golden-boy-fake-keyboard-programing-coding-paper-book.gif"  />
 </div>
 
-
+<!--
 ### Watch my contribution graph being eaten by a Snake! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](soc/snake.svg)
 
+-->
 ##
 
 <p align="center"><img src="https://count.getloli.com/get/@Souvik2376?theme=rule34" width="400"></p><br>
@@ -102,3 +103,11 @@
 
 <a href="https://www.linkedin.com/in/souvik-banerjee-sde/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.kaggle.com/souvikbanerjee2022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dephraiim" height="20" width="20" /></a>
+
+<!-- Snake Animation -->
+
+### Watch my contribution graph being eaten by a Snake! 🐍
+<div align="center">
+    
+  ![snake gif](https://github.com/Souvik2376/Souvik2376/blob/output/github-snake-dark.svg)
+</div>
