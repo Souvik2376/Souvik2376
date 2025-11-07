@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
-
+##
 
 <!-- Kintaro Golden Boy GIF -->
 
@@ -81,13 +81,7 @@
   <img height="550" weidth="550" src="assests/golden-boy-fake-keyboard-programing-coding-paper-book.gif"  />
 </div>
 
-<!--
-### Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](soc/snake.svg)
-
--->
-##
 
 <p align="center"><img src="https://count.getloli.com/get/@Souvik2376?theme=rule34" width="400"></p><br>
 
@@ -111,3 +105,4 @@
     
   ![snake gif](https://github.com/Souvik2376/Souvik2376/blob/output/github-snake-dark.svg)
 </div>
+
