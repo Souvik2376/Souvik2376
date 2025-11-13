@@ -10,7 +10,7 @@
 
 <h2 align="left">Hello Everyone👋!</h2>
 <h3 align="left">My name is Souvik Banerjee .</h3>
-<h4 align="left">An upcoming developer 👨‍💻</h4>
+<h4 align="left">An ML developer 👨‍💻</h4>
 <h6 align="left">📍Kolkata , India</h6>
 <br clear="both">
 
@@ -22,7 +22,7 @@
 
 <img align="right" height="200" src="assests/68747470733a2f2f6d656469612e74656e6f722e636f6d2f666c666c433647467a4f38414141414d2f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966.gif" />
 
-<h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently learning everything 🤣<br><br>👯 I’m looking to collaborate with other content creators<br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com <br><br>⚡ Fun fact - Currently I am a student who likes to watch anime a lot :)</h6>
+<h6 align="left">🔭 I’m currently working on my career<br><br>🌱 I’m currently enjoying life 🤣<br><br>👯 I’m looking to collaborate <br><br>💬 Ask me about anything<br><br>📫 How to reach me souvikb019@gmail.com <br><br>⚡ Fun fact - Currently I am a corporate employee who likes to watch anime a lot :)</h6>
 <br clear="both">
 
 <!-- Contribution Graph -->
@@ -105,4 +105,5 @@
     
   ![snake gif](https://github.com/Souvik2376/Souvik2376/blob/output/github-snake-dark.svg)
 </div>
+
 
