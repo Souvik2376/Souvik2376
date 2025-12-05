@@ -90,13 +90,8 @@
 
 [![@souvik2376's Holopin board](https://holopin.me/souvik2376)](https://holopin.io/@souvik2376)
 ###
-<br>
-<!-- Connection Section --> 
 
-## **Socials**
 
-<a href="https://www.linkedin.com/in/souvik-banerjee-sde/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://www.kaggle.com/souvikbanerjee2022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dephraiim" height="20" width="20" /></a>
 
 <!-- Snake Animation -->
 
@@ -107,3 +102,9 @@
 </div>
 
 
+<!-- Connection Section --> 
+
+## **Socials**
+
+<a href="https://www.linkedin.com/in/souvik-banerjee-sde/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.kaggle.com/souvikbanerjee2022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dephraiim" height="20" width="20" /></a>
