@@ -36,13 +36,11 @@
 ## 📊 Stats
 
 <div align="left">  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Souvik2376&theme=sunset-gradient&hide_border=true" alt="GitHub Streak" /></a>
 <div>
 
  <!-- Github Contribution Graph -->
 
-<div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2376&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Souvik Banerjee" />
-</div>
 
 
 
@@ -108,3 +106,4 @@
 
 <a href="https://www.linkedin.com/in/souvik-banerjee-sde/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.kaggle.com/souvikbanerjee2022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dephraiim" height="20" width="20" /></a>
+
