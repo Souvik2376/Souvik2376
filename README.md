@@ -33,15 +33,12 @@
  
 
 
-## 📊 Stats
-
-<div align="left">  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Souvik2376&theme=sunset-gradient&hide_border=true" alt="GitHub Streak" /></a>
-<div>
 
  <!-- Github Contribution Graph -->
 
+## 📊 Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Souvik2376&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 <!-- Languages & Skills -->
@@ -106,4 +103,5 @@
 
 <a href="https://www.linkedin.com/in/souvik-banerjee-sde/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.kaggle.com/souvikbanerjee2022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dephraiim" height="20" width="20" /></a>
+
 
